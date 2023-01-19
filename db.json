@@ -1,0 +1,101 @@
+
+{
+  "pagina de contacto": [
+      {
+          "id": 1,
+          "tipo": "contacto",
+          "descrição": "onde a pesso quer saber da empresa",
+          "categoria_id":1
+      },
+      {
+          "id": 2,
+          "tipo": "nome",
+          "descrição":"ondea pessoa coloca seu nome completo",
+          "categoria_id":1
+      },
+      {
+          "id": 3,
+          "tipo": "telefone",
+          "descrição":  " a pessoa tem que deixa eu contacto",
+          "categoria_id":1
+      },
+      {
+          "id": 4,
+          "tipo": "email",
+          "descrição": " a pessoa tem que deixa seu correo electronico",
+          "categoria_id":1
+      }
+
+  ],
+  "mensagem": [
+      {
+        "id": 1,
+        "nome": "obrigado."
+      },
+      {
+        "id": 2,
+        "nome": "obrigado en breve retornaremos."
+      },
+      {"id": 3,
+      "nome": "obrgado por sua interesse"
+      },
+      {"id": 4,
+      "nome": "obrigado pelo obrigado"
+      }
+  ],
+  "fornecedores": [
+      {
+          "id": 1,
+          "nome": "neflix",
+          "descrição": "Permitido uso no Brasl"   
+      },
+      {
+          "id": 2,
+          "nome": "neflix",
+          "descrição": "Permitido uso no Brasil"
+      },
+      {
+          "id": 3,
+          "nome": "neflix",
+          "descrição": "Permitido uso no Brasil"
+      },
+      {
+          "id": 4,
+          "nome": "neflix",
+          "descrição": "Permitido uso no Brasil"
+      },
+      {
+          
+      }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+   
+  
+
+
+
+
+   
