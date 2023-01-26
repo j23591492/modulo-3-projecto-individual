@@ -4,25 +4,25 @@
       {
           "id": 1,
           "tipo": "contacto",
-          "descrição": "onde a pesso quer saber da empresa",
+          "descrição": "onde a pessoa quer saber da empresa",
           "categoria_id":1
       },
       {
           "id": 2,
           "tipo": "nome",
-          "descrição":"ondea pessoa coloca seu nome completo",
+          "descrição":"onde a pessoa coloca seu nome completo",
           "categoria_id":1
       },
       {
           "id": 3,
           "tipo": "telefone",
-          "descrição":  " a pessoa tem que deixa eu contacto",
+          "descrição":  " a pessoa tem que deixar eu contato",
           "categoria_id":1
       },
       {
           "id": 4,
           "tipo": "email",
-          "descrição": " a pessoa tem que deixa seu correo electronico",
+          "descrição": " a pessoa tem que deixar seu e-mail",
           "categoria_id":1
       }
 
@@ -37,10 +37,10 @@
         "nome": "obrigado en breve retornaremos."
       },
       {"id": 3,
-      "nome": "obrgado por sua interesse"
+      "nome": "obrgado por seu interesse"
       },
       {"id": 4,
-      "nome": "obrigado pelo obrigado"
+      "nome": "obrigado"
       }
   ],
   "fornecedores": [
